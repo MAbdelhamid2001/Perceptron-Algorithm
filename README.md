@@ -7,5 +7,6 @@ I have used TKinter to draw the hui iterface
   - which number of epochs 
   - which kind of activation function 
   - which value of the Learning rate
+  - whether to add bias or not
   
 ![My animated logo](./assests/gui.png)  
