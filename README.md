@@ -8,5 +8,4 @@ I have used TKinter to draw the hui iterface
   - which kind of activation function 
   - which value of the Learning rate
   
-![My GUI](./assets/gu.png)
-  
+![My animated logo](./assests/gui.png)  
